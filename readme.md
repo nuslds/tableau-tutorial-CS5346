@@ -39,7 +39,7 @@ You can access to the slides and the playlist of recordings through the hyperlin
   
 
 ## Overview
-- #### I. Introduction
+- #### Introduction
   - :video_camera:[Recording]()
 - #### II. Connecting to a Data Source
   - :video_camera:[Recording]()
@@ -55,7 +55,7 @@ You can access to the slides and the playlist of recordings through the hyperlin
   - :video_camera:[Recording]()
   - :page_with_curl:[Demo (Text)](markdowns/p4_dashboard.md)
   - :bookmark_tabs:[Workbook for demo](tableau_workbooks/p4.twb)
-- #### VI. Other helpful features
+- #### Other helpful features
   - :video_camera:[Recording]()
 
 
