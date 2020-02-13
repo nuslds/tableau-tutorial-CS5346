@@ -39,23 +39,23 @@ You can access to the slides and the playlist of recordings through the hyperlin
   
 
 ## Overview
-- #### Introduction
+- #### I. Introduction
   - :video_camera:[Recording]()
-- #### I. Connecting to a Data Source
+- #### II. Connecting to a Data Source
   - :video_camera:[Recording]()
   - :page_with_curl:[Demo (Text)](markdowns/p1_import_data.md)
-- #### II. Creating a Simple Chart
+- #### III. Creating a Simple Chart
   - :video_camera:[Recording]()
   - :page_with_curl:[Demo (Text)](markdowns/p2_create_chart.md)
   - :bookmark_tabs:[Workbook for demo](tableau_workbooks/p2.twb)
-- #### III. Common Chart Types in Tableau
+- #### IV. Common Chart Types in Tableau
   - :video_camera:[Recording]()
   - :bookmark_tabs:[Workbook for demo](tableau_workbooks/p3.twb)
-- #### IV. Tableau Dashboard
+- #### V. Tableau Dashboard
   - :video_camera:[Recording]()
   - :page_with_curl:[Demo (Text)](markdowns/p4_dashboard.md)
   - :bookmark_tabs:[Workbook for demo](tableau_workbooks/p4.twb)
-- #### V. Other helpful features
+- #### VI. Other helpful features
   - :video_camera:[Recording]()
 
 
