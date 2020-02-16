@@ -45,6 +45,8 @@ We will be working on a sample Excel data data in this tutorial. For more inform
 
   
 
+  ## Demo 2
+
   - **Data Preview**
 
   ![f5](../screenshots/f5.png)
@@ -52,10 +54,12 @@ We will be working on a sample Excel data data in this tutorial. For more inform
   
 
   - **Metadata View**
-
+  
   ![f6](../screenshots/f6.png)
 
 
+
+## Demo 3
 
 - To filter the data, select `Edit Data Source Filters...` from `Data` - Click on`Add..` to select a field to filter - Choose what to exclude or to include - Click on `Ok` to apply the data filter. You can add more than one data filters. 
 
@@ -69,19 +73,26 @@ For complex filtering, try out `Wildcard`, `Condition`, and `Top` features.
 
 
 
-- You can join multiple sheets easily in Tableau. Drag another sheet and explore different ways of table joining.
-  - **Inner**: Include values that have matches in both tables only
-  - **Left**: Include all values from the left table and corresponding matches from the right table
-  - **Right**: Include all values from the right table and corresponding matches from the left table
-  - **Full Outer**: Include all values from both tables
+
+
+## Demo 4
+
+You can join multiple sheets easily in Tableau. Drag another sheet and explore different ways of table joining.
+
+- **Inner**: Include values that have matches in both tables only
+- **Left**: Include all values from the left table and corresponding matches from the right table
+- **Right**: Include all values from the right table and corresponding matches from the left table
+- **Full Outer**: Include all values from both tables
 
 ![f8](../screenshots/f8.png)
 
 
 
-- There is another feature called union in Tableau which allow you to join the rows.
+##Demo 5
 
-  Click on `New Union` - Drag the tables you want to union into the box - OK
+There is another feature called union in Tableau which allow you to join the rows.
+
+- Click on `New Union` - Drag the tables you want to union into the box - OK
 
 ![f11](../screenshots/f11.png)
 
