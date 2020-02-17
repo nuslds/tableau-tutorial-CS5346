@@ -30,7 +30,7 @@ As a student, you can apply for [a student license](<https://www.tableau.com/aca
 ## Learning Materials
 You can access to the slides and the playlist of recordings through the hyperlinked text below. More details, e.g.,  the sample workbooks used for demo, the steps demonstrated in demos, can be found under each section in **Overview**.
 
-- **[Slides]()**
+- **[Slides](slides.pdf)**
 
 - **[Recordings (playlist)]()**
 
