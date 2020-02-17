@@ -175,14 +175,15 @@ What was the trend of sales and profits over months?
 
 
 
-6. Synchronize the axis the make the lines comparable.
+
+
+7. Prefer an area chart?
+
+- Synchronize the axis the make the lines comparable.
 
 ![18](../screenshots/f18.png)
 ![19](../screenshots/f19.png)
 
-
-
-7. Prefer an area chart?
-Go to **Marks** - Under the chart selection dropdown, select `Area`
+- Go to **Marks** - Under the chart selection dropdown, select `Area`
 
 ![20](../screenshots/f20.png)
